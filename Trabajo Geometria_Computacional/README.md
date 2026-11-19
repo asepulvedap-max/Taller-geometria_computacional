@@ -1,6 +1,6 @@
 # Trabajo de Geometría Computacional
 
-Repositorio organizado para entregar y ejecutar el taller de Geometría Computacional. Contiene los cinco ejercicios, el informe editable, el programa Python, las figuras y las fotografías de la solucion de los ejericicios 1 y 2.
+Repositorio organizado para entregar y ejecutar el taller de Geometría Computacional. Contiene los cinco ejercicios, el programa Python, las figuras y las fotografías de la solucion de los ejericicios 1 y 2.
 
 ## Estructura
 
